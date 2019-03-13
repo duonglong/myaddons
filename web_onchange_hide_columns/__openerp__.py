@@ -12,6 +12,7 @@
     then add 'invisible' to 'attrs' attribute, it should be something like this:
     <field name="foo" attrs="{'invisible': [('field_related', <condition>, <value>)]}/>"
     """,
+    'category': 'web',
     'version': '9.0.1.1.0',
     'author': 'Longdt',
     'depends': [
